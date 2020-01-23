@@ -2,7 +2,7 @@
 	"about": "<p>I'm primarily an electronics engineer working in New Delhi, India! <br> <br> Pursuing Masters degree in Electrical Engineering from University of Colorado, Boulder<br> <br> Passionate about about electronics, astronomy, and learning any and everything that happens to come my way 😀</p>",
 	"contact": "<ul class='contact'><li><a class='blue' target='_blank' href='https://github.com/Ayush2309'>GitHub</a></li><li><a class='blue' target='_blank' href='https://www.linkedin.com/in/ayush-gupta11/'>LinkedIn</a></li></ul>",
 	"resume": "<a class='blue' target='_blank' href='data/Ayush Gupta.pdf'>View My Resume</a>",
-	"publications": "<h4>Talks I've Given:</h4><ul><li>GitHub Universe 2017</li><li>Nodevember 2017</li><li>JSConf EU 2018</li><li>Node Summit 2018</li><li>Electron Bay Area Users Meetup 2018</li><li>WaffleJS January 2019</li><li>Modern JS /Runtimes/ 2019</li><li>JSHeroes 2019</li></ul>",
+	"publications": "<p>Snake Bite detection And Treatment System in an International Research Conference (IARDO) held at JNU, Delhi. Published in Lambert Publications, Germany</p><h4>ISBN: 978-3-330-34917-9</h4>",
 	"proficient": "<ul><li>Python</li><li>Embedded C</li><li>Cypress Psoc Microcontrollers</li><li>DragonBoard 410 c</li><li>Raspberry pi</li></ul>",
 	"familiar": "<ul><li>Linux</li><li>SolidWorks</li><li>Eagle</li><li>Arduino</li></ul>",
 	"learning": "<ul><li>STM Microcontrollers</li><li>Thermal Sensors</li></ul>",
