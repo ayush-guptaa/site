@@ -9,7 +9,7 @@ const errors = {
   
   const struct = {
     root: ['about', 'resume', 'contact', 'publications'],
-    projects: ['Turbine_Ventilator', 'Pneumatic_Ventilator', 'Coil_Marking_Robot', 'Scarfing_Robot'],
+    projects: ['Ventilator', 'Coil_Marking', 'Scarfing'],
     skills: ['proficient', 'familiar', 'learning']
   }
   
